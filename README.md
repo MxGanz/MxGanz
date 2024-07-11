@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native and Godot 4
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me: mxganz.dev@gmail.com
-- 🍵 Support my work: [Buymeacoffee](buymeacoffee.com/mxganz)
+- 🍵 Support my work: [Buymeacoffee](https://buymeacoffee.com/mxganz)
 - 😄 Pronouns: they/them
 
 <!---
