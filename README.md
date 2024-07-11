@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MxGanz [My Portfolio](https://mxganz.github.io)
+- 👋 Hi, I’m @MxGanz, check out [My Portfolio](https://mxganz.github.io) (under development)
 - 👀 I’m interested in making functional, accessible software
 - 🌱 I’m currently learning React Native and Godot 4
 - 💞️ I’m looking to collaborate on game jams
